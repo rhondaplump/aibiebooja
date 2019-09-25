@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jexoofaep.inerdgirl.com/sitemap.xml
